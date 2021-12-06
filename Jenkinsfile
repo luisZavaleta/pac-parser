@@ -1,4 +1,4 @@
-def imageName = 'mlabouardy/movies-parser'
+def imageName = 'luiszavaleta/movies-parser'
 node{
     stage('Checkout'){
         checkout scm
